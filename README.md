@@ -1,3 +1,18 @@
+The data analysis includes:
+- descriptive statistics
+- correlation matrix
+- clustering:
+  - K Means
+  - X Means
+  - DB Scan
+  - Hierarchical
+- classification: 
+  - Decision tree
+  - Random forest
+  - K-Nearest Neighbors
+  - Support vector machines
+- Pattern mining
+
 The dataset reviewed contains data from 2126 measurements extracted from cardiotocographs and graded by experienced obstetricians, as described in: Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318.
 
 Cardiotocography (CTG) is a simple and cost-effective option for assessing the health of the fetus, allowing health professionals to intervene to prevent infant and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.
